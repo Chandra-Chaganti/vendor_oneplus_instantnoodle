@@ -197,7 +197,7 @@
           "data": "17.0"
         },
         "pgain":{ "type": "flt", "ver": "0",
-          "data": "1000.0"
+          "data": "4000.0"
         },
         "pldrive":{ "type": "flt", "ver": "0",
           "data": "24.0"

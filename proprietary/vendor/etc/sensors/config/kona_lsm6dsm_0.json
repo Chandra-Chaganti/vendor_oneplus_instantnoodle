@@ -38,7 +38,7 @@
         "data": "0"
       },
       "irq_trigger_type":{ "type": "int", "ver": "0",
-        "data": "3"
+        "data": "0"
       },
       "num_rail":{ "type": "int", "ver": "0",
         "data": "2"
@@ -114,16 +114,6 @@
             "data": "0.0"
           }
         }
-      },
-      ".nom_val":
-      {
-        "owner": "lsm6dsm",
-        ".config":{
-          "owner": "lsm6dsm",
-          "x":{ "type": "flt", "ver": "0",
-            "data": "1.0"
-          }
-        }
       }
     },
     ".accel":{
@@ -170,16 +160,6 @@
           },
           "z":{ "type": "flt", "ver": "0",
             "data": "0.0"
-          }
-        }
-      },
-      ".nom_val":
-      {
-        "owner": "lsm6dsm",
-        ".config":{
-          "owner": "lsm6dsm",
-          "x":{ "type": "flt", "ver": "0",
-            "data": "1.0"
           }
         }
       }
